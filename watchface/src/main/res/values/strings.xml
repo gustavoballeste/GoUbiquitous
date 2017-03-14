@@ -1,0 +1,11 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Sunshine Watchface</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_digital_name">Sunshine Digital</string>
+
+    <!-- This string is default that is displayed on tap when forecast data is not available -->
+    <string name="humidity_and_wind_not_available">Forecast data is not available</string>
+    <string name="connection_google_api_suspended">Connection to Google API client was suspended. Cause:</string>
+    <string name="connection_google_api_failed">Failed to connect. Result:</string>
+    <string name="forecast_request_message_failed">Forecast request message failed</string>
+</resources>
